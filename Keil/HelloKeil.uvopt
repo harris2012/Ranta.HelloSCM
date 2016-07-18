@@ -27,7 +27,7 @@
     <TargetOption>
       <CLK51>33000000</CLK51>
       <OPTTT>
-        <gFlags>0</gFlags>
+        <gFlags>1</gFlags>
         <BeepAtEnd>1</BeepAtEnd>
         <RunSim>1</RunSim>
         <RunTarget>0</RunTarget>
@@ -192,7 +192,7 @@
   <AlienFiles>
     <PathWithFilename>C:\KEIL\C51\INC\REG52.H</PathWithFilename>
     <TopLine>33</TopLine>
-    <CurrentLine>33</CurrentLine>
+    <CurrentLine>40</CurrentLine>
     <Constant>0</Constant>
     <WindowPosition>
       <length>0</length>
@@ -1560,9 +1560,9 @@
       <Documents>
         <Doc>
           <Name>C:\KEIL\C51\INC\REG52.H</Name>
-          <ColumnNumber>0</ColumnNumber>
+          <ColumnNumber>50</ColumnNumber>
           <TopLine>33</TopLine>
-          <CurrentLine>33</CurrentLine>
+          <CurrentLine>40</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\Program.c</Name>
